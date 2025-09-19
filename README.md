@@ -48,7 +48,7 @@ und setVisible(true) macht das Fenster sichtbar.
 ### Verwendung
 Technologien im Einsatz:<br />
 - **Java**
-- **Swing UI**
+- **UI Designer (Java Swing)**
 
 ### Screenshot
 ![alt text](https://github.com/dannyfox9898/CalculatorGUI/blob/main/output.png)
